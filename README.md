@@ -1,1 +1,1 @@
-# DSA-doubly_lined_ist
+# DSA-doubly_linked_ist
